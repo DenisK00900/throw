@@ -1,0 +1,2 @@
+# throw
+throw_object
